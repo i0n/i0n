@@ -5,7 +5,7 @@
 	 - https://github.com/bevyengine/bevy 
 	 - https://github.com/ggez/ggez
 	 - http://www.cs.cmu.edu/~gfarina/2020/stochastic-rm-icml20/
- - 💞️ I’m looking to collaborate on games, AI related things and web services
+ - 💞️ I’m looking to collaborate on web3 games and AI related things. 
  - 📫 How to reach me [@i0n (twitter)](https://twitter.com/i0n)
 
 <!---
